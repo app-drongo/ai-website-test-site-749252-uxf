@@ -9,7 +9,7 @@ import { useState, useEffect } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  title: 'Technology That Just Works',
+  title: 'Technology That Just Worksss',
   subtitle:
     'Simple, powerful solutions built for real people. No complexity, no confusion—just reliable technology that seamlessly fits into your workflow.',
   ctaText: 'Get Started',
